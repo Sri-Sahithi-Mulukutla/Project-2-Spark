@@ -1,4 +1,5 @@
 # Project-2-Spark
+By Venkata Naga Sri Sahithi Mulukutla
 # Introduction
 Create a spark application to process World University Rankings. Performed Analysis using Hive Context and SQL Context
 # Requirements
